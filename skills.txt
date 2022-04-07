@@ -1,2 +1,6 @@
 git
 jenkins
+java
+c#
+dot net
+kubernets
